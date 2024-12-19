@@ -1,0 +1,20 @@
+{
+  "version": "4.16.6",
+  "time": 0.011,
+  "errors": [
+    {
+      "code": "package-error",
+      "name": "Package Error",
+      "tags": [],
+      "note": "\"'Teste-Silviana-' does not match '^([-a-z0-9._/])+$'\" at \"name\" in metadata and at \"properties/name/pattern\" in profile",
+      "message": "The data package has an error: \"'Teste-Silviana-' does not match '^([-a-z0-9._/])+$'\" at \"name\" in metadata and at \"properties/name/pattern\" in profile",
+      "description": "A validation cannot be processed."
+    }
+  ],
+  "tasks": [],
+  "stats": {
+    "errors": 1,
+    "tasks": 0
+  },
+  "valid": false
+}
